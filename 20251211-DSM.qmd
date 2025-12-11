@@ -1,0 +1,152 @@
+---
+title: "Assessing<br>research impact"
+subtitle: "Support from<br>Team Research Intelligence"
+author:
+  - name: "[Research Intelligence](mailto:researchintelligence.ub@vu.nl)"
+    affiliation: "University Library"
+    affiliation-url: "https://vu.nl/en/about-vu/divisions/university-library/more-about/team-research-intelligence-makes-impact-visible"
+date: "12/11/2025"
+date-format: "D MMMM YYYY"
+format:
+  revealjs:
+    slide-number: false
+    theme: [simple, "stylefiles/VU-revealjs.scss"]
+    template-partials:
+      - "stylefiles/title-slide.html"
+    preview-links: auto
+    callout-icon: false
+    center: false
+revealjs-plugins:
+  - editable
+filters:
+  - editable
+---
+
+## Research impact:<br>The role of the library
+
+::: {.callout-note}
+## Provide information
+- Pure for registration
+- Access to metadata and derived indicators
+- Advise on use of responsible metrics\ 
+:::
+
+:::: { .fragment fragment-index=4 .fade-out }
+
+::: { .fragment fragment-index=2 .absolute top="90%" left="5%" }
+Research Portal: <https://research.vu.nl/>
+:::
+
+![](img/rp-sdg.png){.fragment .shadow fragment-index=2 .absolute top="5%" left="10%" width="50%" height="auto"}
+![](img/rp-altmetric.png){.fragment fragment-index=3 .shadow .absolute top="20%" left="30%" width="75%" height="auto"}
+::::
+
+::: {.fragment fragment-index=4}
+::: {.callout-note}
+## More active support
+- Analysis and interpretation
+- Focus on strategic decision making
+:::
+:::
+
+## What support does team RI provide?
+
+::: {.callout-note}
+## We demonstrate research impact by &#8230;
+- Collecting data on research unit\ 
+  - *for group, department, faculty*
+- linking those data to indicators
+  - *citations, media attention, impact on policy, SDGs*
+- giving insight into impact to improve decision making.
+  - *visualisations, interactive dashboards*
+:::
+
+::::: {.callout-note icon=false}
+## How is this used?
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Support for research policy
+- Support for evaluation (SEP)
+:::
+::: {.column width="40%"}
+
+- Explore for cooperation
+- Explore for appointments
+:::
+
+::: {.column width="20%"}
+
+- &#8230;
+:::
+::::
+:::::
+
+## An example
+
+<iframe title="CCA Dashboard" width="1024" height="612" src="https://app.powerbi.com/reportEmbed?reportId=a0aa963a-de27-4e64-8c52-076b5ab83431&autoAuth=true&ctid=462a9c9c-2da6-4bfb-b318-0f83043fe49b" frameborder="0" allowFullScreen="true"></iframe>
+
+## Examples
+
+:::{ .r-stack}
+![](img/cca1.png)
+
+![](img/cca2.png){.fragment .fade-in}
+
+![](img/IO.png){.fragment .fade-in}
+:::
+
+## Ongoing developments
+
+::: {.callout-note}
+## Open data for metrics
+- Open research information as default option
+- [Openalex](https://openalex.org/works), [Openaire](https://netherlands.openaire.eu/)
+- National and international initiatives
+- More transparent assessment, more community involvement, more flexibility
+:::
+
+::: {.callout-note}
+## Metrics for TTANPRA
+- Exploring information on preprints, research data, software
+- Relevant for "Rewards and Recognition" program
+- Relevant for open science
+:::
+
+## More open, less proprietary data
+
+::: {.callout-note}
+## Commitment to open research assessment
+- Open data sources where possible
+- Not fully open yet (if ever)
+- Decreasing usage of proprietary sources
+:::
+
+::: {.callout-note}
+## Web of Science license ending 2025
+- Primarily values-based decision
+- Finance is never irrelevant
+- Known issues:
+  - Systematic literature reviews
+  - SBE: use of Article Influence Score
+- Exploring open workflows 
+:::
+
+![](img/os-raccoon.png){ .fragment .fade-in .absolute width=292px height=244px left=575px top=300} 
+
+## Takeaways
+
+::: {.callout-note }
+## Research Intelligence
+- Research Intelligence supports research units in making informed decisions
+- We provide data, insights, and tools to analyse research impact
+:::
+
+::: {.callout-note }
+## Innovation and collaboration
+- Many new developments for research assessment
+- We are open to new ideas and collaboration
+- [Contact us](mailto:researchintelligence.ub@vu.nl) to discuss!
+:::

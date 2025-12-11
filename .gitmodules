@@ -1,0 +1,3 @@
+[submodule "stylefiles"]
+	path = stylefiles
+	url = git@github.com:mtthsdzwn/stylefiles.git
